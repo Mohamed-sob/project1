@@ -1,0 +1,10 @@
+body{
+    background: pink;
+}
+main{
+    background-color: #f4f1de;
+    width: 400px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    display: inline-block;
+}
